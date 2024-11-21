@@ -134,6 +134,8 @@ Atlas VPN的免费版本对流量进行了限制。Windows用户每月可使用1
 
 Atlas VPN免费版本的功能存在局限，比如无法解锁Netflix等流媒体平台，也不支持广告拦截功能。对于希望观看流媒体的用户，可能需要升级到付费版本以体验更多功能。
 
+注意：Atlas VPN无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
+
 ### 国外永久免费VPN（二）：PrivadoVPN
 
 ![PrivadoVPN Banner：国外永久免费VPN](https://raw.githubusercontent.com/fastvpncn/free-vpn/refs/heads/main/image/PrivadoVPN%20Banner.jpg)
@@ -147,6 +149,8 @@ PrivadoVPN的免费版本每30天为用户提供10GB的流量，虽然配额有�
 PrivadoVPN的免费版本还支持点对点（P2P）流量，这对于需要分享文件的用户来说是一项实用功能。然而，需要注意的是，免费版本不支持同时连接多台设备，仅限单设备使用。对于需要多平台使用的用户，可能需要升级到付费版本以享受更广泛的功能。
 
 PrivadoVPN的免费服务虽然无法解锁Netflix等主流流媒体平台，但在绕过一些常见的地理限制方面表现良好。无论是提升日常隐私还是进行轻量级的加密连接，它都能为用户提供一种高性价比的解决方案。
+
+注意：PrivadoVPN无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
 
 ### 国外永久免费VPN（三）：ProtonVPN
 
@@ -164,6 +168,8 @@ ProtonVPN免费版本最大的特点是无流量限制，这在免费VPN市场�
 
 对于那些不追求高速连接且对隐私保护有较高需求的用户，ProtonVPN免费版本是一个可靠的选择。尽管它的功能有所限制，但在隐私和安全方面的表现无疑为其赢得了良好的口碑。
 
+注意：ProtonVPN无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
+
 ### 国外永久免费VPN（四）：Hotspot Shield
 
 ![Hotspot Shield Banner：国外永久免费VPN](https://raw.githubusercontent.com/fastvpncn/free-vpn/refs/heads/main/image/Hotspot%20Shield%20Banner.jpg)
@@ -175,6 +181,8 @@ Hotspot Shield是一款成立于2005年的VPN工具，凭借多年的市场经�
 免费版功能相对有限，既不支持流媒体解锁功能，也无法进行P2P文件共享。这意味着用户无法通过免费版访问Netflix等受地理限制的服务。此外，免费版仅支持单设备使用，并通过广告支持运营，因此用户在使用过程中可能会遇到弹窗广告，影响使用体验。
 
 Hotspot Shield免费版适用于Windows、macOS、iOS和Android设备，安装和使用都非常便捷。它非常适合需要临时加密网络连接的用户，但对于需要长时间使用或更高功能需求的用户，免费版可能无法完全满足要求。
+
+注意：Hotspot Shield无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
 
 ### 国外永久免费VPN（五）：Windscribe
 
@@ -192,6 +200,8 @@ Windscribe的客户端支持多种操作系统，包括Windows、macOS、Linux�
 
 尽管免费版本在速度和流量上存在一定限制，但Windscribe的多功能性和强大的隐私保护能力，使其成为一款值得尝试的免费VPN工具。它特别适合那些对隐私有较高要求，同时需要轻量级VPN服务的用户。
 
+注意：Windscribe无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
+
 ### 国外永久免费VPN（六）：Hide.me
 
 ![Hide.me Banner：国外永久免费VPN](https://raw.githubusercontent.com/fastvpncn/free-vpn/refs/heads/main/image/HideMe%20Banner.jpg)
@@ -205,6 +215,8 @@ Hide.me的免费版每月为用户提供10GB的流量，注册即可使用。这
 Hide.me的免费版支持P2P文件共享功能，这对需要种子下载的用户来说是一个重要亮点。不过，免费用户在使用过程中可能会受到速度限制，同时无法解锁Netflix等受地理限制的流媒体平台。如果用户需要更快的速度、更丰富的服务器选择以及流媒体解锁功能，可以选择升级到付费版本。
 
 Hide.me免费版支持Windows、macOS、Linux、Android和iOS多平台使用，其安装和界面设计非常友好，适合技术经验有限的用户快速上手。尽管免费版本限制了一些高级功能，但凭借无广告、无日志记录和强隐私保护的特点，它仍然是一款非常值得信赖的免费VPN工具。
+
+注意：Hide.me无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
 
 ### 国外永久免费VPN（七）：Tunnelbear
 
@@ -221,6 +233,8 @@ TunnelBear的GhostBear模式是一项亮点功能，能够对VPN流量进行混�
 尽管如此，TunnelBear免费版也有一定局限。每月2GB的流量限制较为严格，对于流媒体播放或大文件下载的用户来说可能无法满足需求。此外，免费版无法解锁Netflix等流媒体平台，也不支持高速传输功能。如果用户需要更多流量或更高级的功能，可以选择升级到其付费版本。
 
 TunnelBear的免费版兼容Windows、macOS、Android和iOS等主流设备，并提供浏览器扩展，适合需要快速安全连接的用户。它的简单操作和无广告体验使其成为一款适合新手的免费VPN工具，同时也因其隐私保护措施赢得了广泛好评。
+
+注意：TunnelBear无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
 
 ### 国外永久免费VPN（八）：VPN Gate
 
@@ -239,6 +253,8 @@ VPN Gate的应用场景广泛，适合需要临时更改IP地址、绕过简单�
 小结：在本次讨论中，我们详细介绍了8款业内知名且广受用户认可的免费VPN服务，包括Atlas VPN、PrivadoVPN、ProtonVPN、Hotspot Shield、Windscribe、Hide.me、TunnelBear以及VPN Gate。这些服务凭借出色的隐私保护、数据加密能力以及在一定程度上解除地理限制的功能，吸引了全球范围内的大量用户。每款免费VPN都有其独特的特点，例如流量限制、服务器范围、连接速度以及平台兼容性等，同时也存在一定局限性，例如广告支持、功能限制或速度优先级等问题。
 
 然而，值得注意的是，这些免费VPN服务目前均无法在中国大陆使用。如果你身处中国大陆并希望使用VPN服务，建议选择以下几款专为中国大陆用户设计的免费VPN。这些服务不仅能提供更高的稳定性和速度，还能有效绕过GFW，满足翻墙需求。
+
+注意：VPN Gate无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
 
 ## 2024年中国大陆永久免费VPN推荐
 
