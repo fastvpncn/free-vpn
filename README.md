@@ -250,11 +250,11 @@ VPN Gate最大的特点是其完全免费属性，用户无需支付任何费用
 
 VPN Gate的应用场景广泛，适合需要临时更改IP地址、绕过简单地理限制或测试VPN功能的用户。虽然它可能无法满足流媒体解锁等高级需求，但对于学习VPN技术或需要一款完全免费的工具来说，它是一个值得一试的选择。作为开源项目，VPN Gate还拥有一个活跃的社区支持，用户可以在论坛中寻求帮助或交流经验。
 
+* 注意：VPN Gate无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
+
 小结：在本次讨论中，我们详细介绍了8款业内知名且广受用户认可的免费VPN服务，包括Atlas VPN、PrivadoVPN、ProtonVPN、Hotspot Shield、Windscribe、Hide.me、TunnelBear以及VPN Gate。这些服务凭借出色的隐私保护、数据加密能力以及在一定程度上解除地理限制的功能，吸引了全球范围内的大量用户。每款免费VPN都有其独特的特点，例如流量限制、服务器范围、连接速度以及平台兼容性等，同时也存在一定局限性，例如广告支持、功能限制或速度优先级等问题。
 
 然而，值得注意的是，这些免费VPN服务目前均无法在中国大陆使用。如果你身处中国大陆并希望使用VPN服务，建议选择以下几款专为中国大陆用户设计的免费VPN。这些服务不仅能提供更高的稳定性和速度，还能有效绕过GFW，满足翻墙需求。
-
-* 注意：VPN Gate无法用于翻墙！中国大陆用户请查看：<a href="https://github.com/fastvpncn/free-vpn?tab=readme-ov-file#2024%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9vpn%E6%8E%A8%E8%8D%90">大陆永久免费VPN</a>！
 
 ## 2024年中国大陆永久免费VPN推荐
 
