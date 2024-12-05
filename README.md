@@ -1,6 +1,6 @@
 # 2024年3款真正好用的免费VPN推荐：可在中国大陆永久免费使用，不限流量和带宽，绝对安全，速度超快，秒开高清视频，手机和电脑都可以使用
 
-<p align="center">最近更新于：2024年11月21日</p>
+<p align="center">最近更新于：2024年12月5日</p>
 
 ![免费VPN推荐和指南：最好用的大陆永久免费VPN推荐](https://raw.githubusercontent.com/fastvpncn/free-vpn/refs/heads/main/image/%E5%85%8D%E8%B4%B9VPN.png)
 
@@ -280,7 +280,7 @@ VPN Gate的应用场景广泛，适合需要临时更改IP地址、绕过简单�
 
 虽然市面上有许多免费的VPN服务，但大多数在中国大陆无法正常使用，这让许多用户感到困扰。然而，对于那些想要在中国大陆安全稳定地翻墙访问Google、YouTube、Netflix等海外网站的用户来说，并非完全没有解决方案。虽然真正完全免费的VPN在中国大陆几乎不存在，但一些全球知名的付费VPN提供了非常友好的免费试用政策，通过退款机制可以实现“永久免费使用”。在这一部分中，我们将为你推荐3款在中国大陆稳定、快速且支持免费试用的顶级VPN服务，让你无需承担额外费用也能享受一流的翻墙体验。
 
-注意：中国大陆的iOS用户可以通过“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”直接购买一个现成的美区AppleID，随后就可以使用该AppleID下载VPN的iOS客户端！
+注意：如果你是身处中国大陆的iOS用户，并且不知道如何下载VPN客户端的话，那么可以通过“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”直接购买一个现成的美区AppleID，随后就可以使用该AppleID下载VPN的iOS客户端！
 
 ### 大陆永久免费VPN首选：<a href="https://bit.ly/eps-vpn">ExpressVPN</a>
 
